@@ -191,4 +191,4 @@ Smart-Task-Management-System/
 
 AUTHOR:
 Siram Krishna Priya
-📧 siramkrishnapriya@gmail.coM
+📧 siramkrishnapriya@gmail.com
